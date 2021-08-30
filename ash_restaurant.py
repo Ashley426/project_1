@@ -4,7 +4,7 @@
 #         :: a menu
 #         :: a customer
 #         :: an order
-#     >   Should ask for info from customer to do everything, 
+#     >   Should ask for info from custocd ..mer to do everything, 
 #     no static / manually entered info
     
 #     >   MENU
