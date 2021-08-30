@@ -24,10 +24,10 @@
 #         :: should be able to checkout or complete order based on customer info
 # """
 
-user_menu = {"Vegan Wrap: 13.99", "Roasted Califlower: 12.99",
+user_menu = ["Vegan Wrap: 13.99", "Roasted Califlower: 12.99",
 "spicy eggplant: 22.99", "Vegan Alfredo: 24.99", 
 "Butternut Squash: 22.99", "Quinoa: 14.99", "Veggie burger: 19.99",
 "Sweet Potato fries: 12.99", "Cucmber salad: 12.99", "Organic Juice: 8.99"
-   "What would you like to order today?"}
+   "What would you like to order today?"]
 
 print(user_menu)
